@@ -1,0 +1,1 @@
+export const selectExperimentData = (state) => state.experiments.data;
